@@ -1,0 +1,12 @@
+name 				= $STR_NIC_FSU_REARM_TITLE;
+picture 			= "logo.paa";
+description 		= "Rearm SAM";
+logo 				= "logo.paa";
+logoOver 			= "logo.paa";
+tooltip				= $STR_NIC_FSU_REARM_TITLE;
+tooltipOwned		= "Rearm SAM Owned";
+overview			= $STR_NIC_FSU_MOD_OVERVIEW;
+author 				= "NIC";
+overviewPicture		= "logo.paa";
+overviewText 		= $STR_NIC_FSU_MOD_OVERVIEW;
+overviewFootnote 	= "";

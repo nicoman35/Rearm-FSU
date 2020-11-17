@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="NIC_Rearm_FSU">
+    <Package name="NIC_FSU">
+		<Key ID="STR_NIC_FSU_REARM_TITLE">
+            <Original>Auto rearm v1.0</Original>
+            <German>Automatische Wiederbewaffnung v1.0</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_REARM_CATEGORY">
+            <Original>Auto rearm Fire Support Units</Original>
+            <German>Automatische Wiederbewaffnung Feuerunterstützungseinheiten</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_MOD_OVERVIEW">
+            <Original>Auto rearm Fire Support Units v1.0 &lt;br /&gt;Auto rearm Fire Support Units, if ammo sources are to be found within a given radius around the unit.</Original>
+            <German>Automatische Wiederbewaffnung Feuerunterstützungseinheiten v1.0 &lt;br /&gt;Autowiederbewaffnung von Feuerunterstützungseinheiten, falls sich Munitionsquellen in einem vorgegebenen Radius um die Einheit befinden.</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_REARM">
+            <Original>Rearm Fire Support Units</Original>
+            <German>Automatische Wiederbewaffnung Feuerunterstützungseinheiten</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_REARM_TIP">
+            <Original>Fire Support Units units will be rearmed, if ammo sources are to be found within a given radius around the unit.</Original>
+            <German>Feuerunterstützungseinheiten werden automatisch wiederbewaffnet, falls sich Munitionsquellen in einem vorgegebenen Radius um die Einheit befinden.</German>
+        </Key>	
+		<Key ID="STR_NIC_FSU_SEARCH_RANGE">
+            <Original>Search Range</Original>
+            <German>Suchreichweite</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_SEARCH_RANGE_TIP">
+            <Original>Search range around Fire Support Units in meter, within which ammo sources are searched for. HINT: The further away an ammo source is, the longer rearming will take.</Original>
+            <German>Suchreichweite in Meter um Feuerunterstützungseinheiten, innerhalb dessen nach Munition gesucht wird. HINWEIS: Je weiter entfernt die Munitiosquelle, desto länger die Wiederbewaffnungsdauer.</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_TIME_PER">
+            <Original>Time Per Round And Meter</Original>
+            <German>Zeit Pro Geschoss Und Meter</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_TIME_PER_TIP">
+            <Original>Time in seconds needed for rearming one round and per meter distance of ammo source from respective unit.</Original>
+            <German>Zeit in Sekunden pro Wiederbewaffnung eines Geschosses und pro Meter Entfernung der Munitionsquelle zur jeweiligen Einheit.</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_AI_UNITS">
+            <Original>Number Of Necessary AI Engineers</Original>
+            <German>Anzahl Notwendiger AI Ingenieure</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_AI_UNITS_TIP">
+            <Original>Number of necessary AI engineers for the auto rearming. They have to be within the same range from the unit to be auto rearmed, as the 'Search Range' setting. Or be assigned as team.</Original>
+            <German>Anzahl der für die automatische Wiederbewaffnung notwendigen Ingenieure. Sie müssen sich innerhalb derselben Reichweite um die wiederzubewaffnende Einheit befinden, wie die 'Suchreichweiten' Einstellung. Oder als Mannschaft zugewiesen sein.</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_NEG_1">
+            <Original>Auto rearming </Original>
+            <German>Automatische Wiederbewaffnung </German>
+        </Key>
+		<Key ID="STR_NIC_FSU_NEG_2">
+            <Original> not possible!</Original>
+            <German> nicht möglich!</German>
+        </Key>
+		<Key ID="STR_NIC_FSU_NEG_3">
+            <Original>No rearm team available in a range of </Original>
+            <German>Kein Wiederbewaffnungsteam in einer Reichweite von </German>
+        </Key>
+		<Key ID="STR_NIC_FSU_NEG_4">
+            <Original>No ammo sources available in a range of </Original>
+            <German>Kein Munitionsquellen in einer Reichweite von </German>
+        </Key>
+	</Package>
+</Project>
